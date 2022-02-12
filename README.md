@@ -1,4 +1,4 @@
-# **Awesome startup and science RSS feeds**
+# **Awesome startup and science RSS channels**
 
 A collection of awesome RSS schannels related to startup, science and technology.
 

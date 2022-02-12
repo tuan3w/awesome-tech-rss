@@ -1,12 +1,13 @@
 # **Awesome startup and science RSS feeds**
 
-A collection of awesome rss schannels related to startup, science and technology.
+A collection of awesome RSS schannels related to startup, science and technology.
 
-### How to Use
+## How to Use
 
 There is single file [feeds.opml](./feeds.opml) that contains all RSS channels in this list so you can import into your favorite RSS software.
 If you just want to add a specific RSS channel, just click on the copy button beside your rss link to copy it.
 
+## List of channels
 
 ### Learning
 
@@ -592,7 +593,7 @@ http://feeds.feedburner.com/tedtalks_video
 http://feeds.harvardbusiness.org/harvardbusiness/
 ```
 
-### Contribution
+## Contribution
 
 You need to add source to both [feeds.opml](./feeds.opml) and README.md. You can also generate README.md from `feeds.opml` by running the following script:
 
@@ -601,6 +602,6 @@ $ pip install -r requirements.txt
 $ python generate_readme.py
 ```
 
-### LICENSE
+## LICENSE
 
 [CCO-1.0](./LICENSE)

@@ -46,6 +46,10 @@ https://feeds.feedburner.com/bigthink/main
 ```
 http://steveblank.com/feed/
 ```
+- [George Hotz - The singularity is nearer](https://geohot.github.io/blog/)
+```
+https://geohot.github.io/blog/feed.xml
+```
 - [Hacker News](https://news.ycombinator.com/)
 ```
 http://news.ycombinator.com/rss

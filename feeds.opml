@@ -15,6 +15,7 @@
 		</outline>
 		<outline text="Startup" title="Startup">
 			<outline text="Steve Blank" title="Steve Blank" type="rss" xmlUrl="http://steveblank.com/feed/" />
+			<outline text="The singularity is nearer" title="The singularity is nearer" type="rss" xmlUrl="https://geohot.github.io/blog/feed.xml" />
 			<outline text="Hacker News" title="Hacker News" type="rss" xmlUrl="http://news.ycombinator.com/rss" />
 			<outline text="Guy Kawasaki" title="Guy Kawasaki" type="rss" xmlUrl="http://guykawasaki.com/feed/" />
 			<outline text="Forbes - Entrepreneurs" title="Forbes - Entrepreneurs" type="rss" xmlUrl="http://www.forbes.com/entrepreneurs/index.xml" />

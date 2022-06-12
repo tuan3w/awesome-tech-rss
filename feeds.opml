@@ -18,17 +18,16 @@
 			<outline text="The singularity is nearer" title="The singularity is nearer" type="rss" xmlUrl="https://geohot.github.io/blog/feed.xml" />
 			<outline text="Hacker News" title="Hacker News" type="rss" xmlUrl="http://news.ycombinator.com/rss" />
 			<outline text="Guy Kawasaki" title="Guy Kawasaki" type="rss" xmlUrl="http://guykawasaki.com/feed/" />
-			<outline text="Forbes - Entrepreneurs" title="Forbes - Entrepreneurs" type="rss" xmlUrl="http://www.forbes.com/entrepreneurs/index.xml" />
 			<outline text="Essays - Benedict Evans" title="Essays - Benedict Evans" type="rss" xmlUrl="http://ben-evans.com/benedictevans?format=rss" />
 			<outline text="First Round Review" title="First Round Review" type="rss" xmlUrl="http://firstround.com/review/feed.xml" />
 			<outline text="Sam Altman" title="Sam Altman" type="rss" xmlUrl="http://blog.samaltman.com/posts.atom" />
 			<outline text="Andrew Chen" title="Andrew Chen" type="rss" xmlUrl="http://andrewchen.co/feed/" />
-			<outline text="Fast Company " title="Fast Company " type="rss" xmlUrl="http://www.fastcodesign.com/rss.xml" />
 			<outline text="Both Sides of the Table - Medium" title="Both Sides of the Table - Medium" type="rss" xmlUrl="https://bothsidesofthetable.com/feed" />
 			<outline text="Both Sides of the Table" title="Both Sides of the Table" type="rss" xmlUrl="http://feeds.feedburner.com/BothSidesOfTheTable" />
-			<outline text="Startups – TechCrunch" title="Startups – TechCrunch" type="rss" xmlUrl="https://techcrunch.com/startups/feed/" />
 			<outline text="OnStartups" title="OnStartups" type="rss" xmlUrl="http://feed.onstartups.com/onstartups" />
 			<outline text="The Black Box of Product Management - Medium" title="The Black Box of Product Management - Medium" type="rss" xmlUrl="https://medium.com/feed/the-black-box-of-product-management" />
+			<outline text="Product Life" title="Product Life" type="rss" xmlUrl="https://productlife.to/feed" />
+			<outline text="Irrational Exuberance" title="Irrational Exuberance" type="rss" xmlUrl="https://lethain.com/feeds/" />
 		</outline>
 		<outline text="Tech News" title="Tech News">
 			<outline text="SlashGear" title="SlashGear" type="rss" xmlUrl="http://feeds.slashgear.com/slashgear" />
@@ -37,8 +36,11 @@
 			<outline text="Engadget" title="Engadget" type="rss" xmlUrl="http://www.engadget.com/rss-full.xml" />
 			<outline text="Tech in Asia" title="Tech in Asia" type="rss" xmlUrl="https://feeds2.feedburner.com/PennOlson" />
 			<outline text="TechCrunch" title="TechCrunch" type="rss" xmlUrl="https://techcrunch.com/feed/" />
+			<outline text="Fast Company " title="Fast Company " type="rss" xmlUrl="http://www.fastcodesign.com/rss.xml" />
+			<outline text="Startups – TechCrunch" title="Startups – TechCrunch" type="rss" xmlUrl="https://techcrunch.com/startups/feed/" />
 			<outline text="Forbes - Leadership" title="Forbes - Leadership" type="rss" xmlUrl="https://www.forbes.com/leadership/feed/" />
 			<outline text="Fast Company" title="Fast Company" type="rss" xmlUrl="http://feeds.feedburner.com/fastcompany/headlines" />
+			<outline text="Forbes - Entrepreneurs" title="Forbes - Entrepreneurs" type="rss" xmlUrl="http://www.forbes.com/entrepreneurs/index.xml" />
 		</outline>
 		<outline text="Products &amp; Ideas" title="Products &amp; Ideas">
 			<outline text="Product Hunt — The best new products, every day" title="Product Hunt — The best new products, every day" type="rss" xmlUrl="http://www.producthunt.com/feed" />
@@ -85,6 +87,7 @@
 			<outline text="Amjad Masad" title="Amjad Masad" type="rss" xmlUrl="https://amasad.me/rss" />
 			<outline text="Signal Blog" title="Signal Blog" type="rss" xmlUrl="https://signal.org/blog/rss.xml" />
 			<outline text="Joel on Software" title="Joel on Software" type="rss" xmlUrl="https://www.joelonsoftware.com/feed/" />
+			<outline text="The Pragmatic Engineer" title="The Pragmatic Engineer" type="rss" xmlUrl="https://blog.pragmaticengineer.com/rss/" />
 		</outline>
 		<outline text="Machine Learning" title="Machine Learning">
 			<outline text="Machine Learning Blog | ML@CMU | Carnegie Mellon University" title="Machine Learning Blog | ML@CMU | Carnegie Mellon University" type="rss" xmlUrl="https://blog.ml.cmu.edu/feed/" />

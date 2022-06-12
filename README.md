@@ -57,11 +57,7 @@ http://news.ycombinator.com/rss
 - [Guy Kawasaki](https://guykawasaki.com)
 ```
 http://guykawasaki.com/feed/
-```
-- [Forbes - Entrepreneurs](https://www.forbes.com/entrepreneurs/)
-```
-http://www.forbes.com/entrepreneurs/index.xml
-```
+
 - [Essays - Benedict Evans](https://www.ben-evans.com/benedictevans/)
 ```
 http://ben-evans.com/benedictevans?format=rss
@@ -77,10 +73,6 @@ http://blog.samaltman.com/posts.atom
 - [Andrew Chen](https://andrewchen.com)
 ```
 http://andrewchen.co/feed/
-```
-- [Fast Company](https://www.fastcompany.com)
-```
-http://www.fastcodesign.com/rss.xml
 ```
 - [Both Sides of the Table - Medium](https://bothsidesofthetable.com?source=rss----97f98e5df342---4)
 ```
@@ -102,9 +94,21 @@ http://feed.onstartups.com/onstartups
 ```
 https://medium.com/feed/the-black-box-of-product-management
 ```
+- [Irrational Exuberance](https://lethain.com/)
+```
+https://lethain.com/feeds/
+```
 
 ### Tech News
 
+- [Fast Company](https://www.fastcompany.com)
+```
+http://www.fastcodesign.com/rss.xml
+```
+- [Forbes - Entrepreneurs](https://www.forbes.com/entrepreneurs/)
+```
+http://www.forbes.com/entrepreneurs/index.xml
+```
 - [SlashGear](https://www.slashgear.com)
 ```
 http://feeds.slashgear.com/slashgear
@@ -159,6 +163,10 @@ http://feeds.feedburner.com/sachinrekhiblog
 
 ### Engineering blogs
 
+- [The Pragmatic Engineer](https://blog.pragmaticengineer.com)
+```
+https://blog.pragmaticengineer.com/rss/
+```
 - [The Airtable Engineering Blog](https://medium.com/airtable-eng?source=rss----103630b30187---4)
 ```
 https://medium.com/feed/airtable-eng

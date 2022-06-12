@@ -57,7 +57,7 @@ http://news.ycombinator.com/rss
 - [Guy Kawasaki](https://guykawasaki.com)
 ```
 http://guykawasaki.com/feed/
-
+```
 - [Essays - Benedict Evans](https://www.ben-evans.com/benedictevans/)
 ```
 http://ben-evans.com/benedictevans?format=rss

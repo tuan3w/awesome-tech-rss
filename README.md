@@ -295,9 +295,9 @@ https://engineering.grab.com/feed.xml
 ```
 https://joshwcomeau.com/rss.xml
 ```
-- [Uber Engineering Blog](https://eng.uber.com)
+- [Uber Engineering Blog](https://www.uber.com/blog/engineering)
 ```
-https://eng.uber.com/feed/
+https://www.uber.com/blog/engineering/rss/
 ```
 - [Flurries of latent creativity - Stripe CTO blog](https://blog.singleton.io/)
 ```

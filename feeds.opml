@@ -88,6 +88,7 @@
 			<outline text="Signal Blog" title="Signal Blog" type="rss" xmlUrl="https://signal.org/blog/rss.xml" />
 			<outline text="Joel on Software" title="Joel on Software" type="rss" xmlUrl="https://www.joelonsoftware.com/feed/" />
 			<outline text="The Pragmatic Engineer" title="The Pragmatic Engineer" type="rss" xmlUrl="https://blog.pragmaticengineer.com/rss/" />
+			<outline text="Nvidia Developer Blog" title="Nvidia Developer Blog" type="rss" xmlUrl="https://developer.nvidia.com/blog/feed" />
 		</outline>
 		<outline text="Machine Learning" title="Machine Learning">
 			<outline text="Machine Learning Blog | ML@CMU | Carnegie Mellon University" title="Machine Learning Blog | ML@CMU | Carnegie Mellon University" type="rss" xmlUrl="https://blog.ml.cmu.edu/feed/" />
@@ -100,7 +101,7 @@
 			<outline text="The Berkeley Artificial Intelligence Research Blog" title="The Berkeley Artificial Intelligence Research Blog" type="rss" xmlUrl="http://bair.berkeley.edu/blog/feed.xml" />
 			<outline text="DeepLearningAI" title="DeepLearningAI" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcIXc5mJsHVYTZR1maL5l9w" />
 			<outline text="Eric Jang" title="Eric Jang" type="rss" xmlUrl="http://blog.evjang.com/feeds/posts/default?alt=rss" />
-			<outline text="OpenAI " title="OpenAI " type="rss" xmlUrl="https://blog.openai.com/rss/" />
+			<outline text="OpenAI " title="OpenAI " type="rss" xmlUrl="https://openai.com/news/engineering/rss.xml" />
 			<outline text="The Gradient" title="The Gradient" type="rss" xmlUrl="https://thegradient.pub/rss/" />
 			<outline text="Magenta" title="Magenta" type="rss" xmlUrl="http://magenta.tensorflow.org/feed.xml" />
 			<outline text="NLP News" title="NLP News" type="rss" xmlUrl="http://newsletter.ruder.io/?format=rss" />
@@ -113,6 +114,7 @@
 			<outline text="Machine Learning" title="Machine Learning" type="rss" xmlUrl="http://www.reddit.com/r/MachineLearning/.rss" />
 			<outline text="Yannic Kilcher" title="Yannic Kilcher" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZHmQk67mSJgfCCTn7xBfew" />
 			<outline text="Two Minute Papers" title="Two Minute Papers" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg" />
+			<outline text="PyTorch" title="PyTorch" type="rss" xmlUrl="https://pytorch.org/feed" />
 		</outline>
 		<outline text="Design" title="Design">
 			<outline text="UX Planet" title="UX Planet" type="rss" xmlUrl="https://uxplanet.org/feed" />

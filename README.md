@@ -319,6 +319,10 @@ https://signal.org/blog/rss.xml
 ```
 https://www.joelonsoftware.com/feed/
 ```
+- [Nvidia Developer Blog](https://developer.nvidia.com/blog/feed)
+```
+https://developer.nvidia.com/blog/feed
+```
 
 ### Machine Learning
 
@@ -362,9 +366,9 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCcIXc5mJsHVYTZR1maL5l9w
 ```
 http://blog.evjang.com/feeds/posts/default?alt=rss
 ```
-- OpenAI
+- [OpenAI Engineering](https://openai.com/news/engineering/rss.xml)
 ```
-https://blog.openai.com/rss/
+https://openai.com/news/engineering/rss.xml
 ```
 - [The Gradient](https://thegradient.pub/)
 ```
@@ -414,6 +418,12 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCZHmQk67mSJgfCCTn7xBfew
 ```
 https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg
 ```
+- [PyTorch](https://pytorch.org/feed)
+```
+https://pytorch.org/feed
+```
+
+
 
 ### Design
 

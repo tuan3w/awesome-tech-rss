@@ -422,6 +422,22 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg
 ```
 https://pytorch.org/feed
 ```
+- [Google DeepMind Blog](https://deepmind.google/discover/blog/) *(via [ai-rss-feeds](https://github.com/leontloveless/ai-rss-feeds))*
+```
+https://raw.githubusercontent.com/leontloveless/ai-rss-feeds/main/feeds/deepmind-blog.xml
+```
+- [Stability AI News](https://stability.ai/news) *(via [ai-rss-feeds](https://github.com/leontloveless/ai-rss-feeds))*
+```
+https://raw.githubusercontent.com/leontloveless/ai-rss-feeds/main/feeds/stability-ai.xml
+```
+- [Groq News](https://groq.com/news/) *(via [ai-rss-feeds](https://github.com/leontloveless/ai-rss-feeds))*
+```
+https://raw.githubusercontent.com/leontloveless/ai-rss-feeds/main/feeds/groq-news.xml
+```
+- [Cursor Blog](https://cursor.com/blog) *(via [ai-rss-feeds](https://github.com/leontloveless/ai-rss-feeds))*
+```
+https://raw.githubusercontent.com/leontloveless/ai-rss-feeds/main/feeds/cursor-blog.xml
+```
 
 
 

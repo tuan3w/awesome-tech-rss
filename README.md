@@ -111,7 +111,7 @@ http://www.forbes.com/entrepreneurs/index.xml
 ```
 - [SlashGear](https://www.slashgear.com)
 ```
-http://feeds.slashgear.com/slashgear
+https://www.slashgear.com/feed
 ```
 - [VentureBeat](https://venturebeat.com)
 ```

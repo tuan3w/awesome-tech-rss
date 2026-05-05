@@ -115,6 +115,7 @@
 			<outline text="Yannic Kilcher" title="Yannic Kilcher" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZHmQk67mSJgfCCTn7xBfew" />
 			<outline text="Two Minute Papers" title="Two Minute Papers" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg" />
 			<outline text="PyTorch" title="PyTorch" type="rss" xmlUrl="https://pytorch.org/feed" />
+			<outline text="Digital Mind News" title="Digital Mind News" type="rss" xmlUrl="https://digitalmindnews.com/feed/" />
 		</outline>
 		<outline text="Design" title="Design">
 			<outline text="UX Planet" title="UX Planet" type="rss" xmlUrl="https://uxplanet.org/feed" />

@@ -422,6 +422,10 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg
 ```
 https://pytorch.org/feed
 ```
+- [Digital Mind News](https://digitalmindnews.com)
+```
+https://digitalmindnews.com/feed/
+```
 
 
 

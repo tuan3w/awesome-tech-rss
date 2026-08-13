@@ -611,6 +611,7 @@ http://backlinko.com/feed
 http://feeds.feedburner.com/tedtalks_video
 ```
 - [HBR.org](http://hbr.org)
+- [n8n-json-feed-to-telegram](https://github.com/DeusAcc/n8n-json-feed-to-telegram) - Free n8n workflow that polls a JSON endpoint and alerts on Telegram only for new entries passing a filter, no external database.
 ```
 http://feeds.harvardbusiness.org/harvardbusiness/
 ```

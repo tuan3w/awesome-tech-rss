@@ -98,6 +98,10 @@ https://medium.com/feed/the-black-box-of-product-management
 ```
 https://lethain.com/feeds/
 ```
+- [Storefront Brief](https://fortune-insight.onrender.com/shop/brief/index.html)
+```
+https://fortune-insight.onrender.com/shop/brief/feed.xml
+```
 
 ### Tech News
 

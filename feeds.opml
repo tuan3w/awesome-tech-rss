@@ -28,6 +28,7 @@
 			<outline text="The Black Box of Product Management - Medium" title="The Black Box of Product Management - Medium" type="rss" xmlUrl="https://medium.com/feed/the-black-box-of-product-management" />
 			<outline text="Product Life" title="Product Life" type="rss" xmlUrl="https://productlife.to/feed" />
 			<outline text="Irrational Exuberance" title="Irrational Exuberance" type="rss" xmlUrl="https://lethain.com/feeds/" />
+			<outline text="Storefront Brief" title="Storefront Brief" type="rss" xmlUrl="https://fortune-insight.onrender.com/shop/brief/feed.xml" />
 		</outline>
 		<outline text="Tech News" title="Tech News">
 			<outline text="SlashGear" title="SlashGear" type="rss" xmlUrl="http://feeds.slashgear.com/slashgear" />

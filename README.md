@@ -99,6 +99,11 @@ https://medium.com/feed/the-black-box-of-product-management
 https://lethain.com/feeds/
 ```
 
+- [Nssnap Community](https://nssnap.com)
+```
+https://nssnap.com/feed.xml
+```
+
 ### Tech News
 
 - [Fast Company](https://www.fastcompany.com)

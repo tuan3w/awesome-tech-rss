@@ -96,6 +96,7 @@
 			<outline text="Jay Alammar" title="Jay Alammar" type="rss" xmlUrl="https://jalammar.github.io/feed.xml" />
 			<outline text="Distill" title="Distill" type="rss" xmlUrl="http://distill.pub/rss.xml" />
 			<outline text="Lil’Log" title="Lil’Log" type="rss" xmlUrl="https://lilianweng.github.io/lil-log/feed.xml" />
+			<outline text="AnyMesgs (听说了吗？)" title="AnyMesgs (听说了吗？)" type="rss" xmlUrl="https://anymesgs.com/rss.xml" />
 			<outline text="MIT News - Artificial intelligence" title="MIT News - Artificial intelligence" type="rss" xmlUrl="http://news.mit.edu/rss/topic/artificial-intelligence2" />
 			<outline text="Sebastian Ruder" title="Sebastian Ruder" type="rss" xmlUrl="http://ruder.io/rss/index.rss" />
 			<outline text="The Berkeley Artificial Intelligence Research Blog" title="The Berkeley Artificial Intelligence Research Blog" type="rss" xmlUrl="http://bair.berkeley.edu/blog/feed.xml" />

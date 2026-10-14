@@ -346,6 +346,10 @@ http://distill.pub/rss.xml
 ```
 https://lilianweng.github.io/lil-log/feed.xml
 ```
+- [AnyMesgs (听说了吗？)](https://anymesgs.com)
+```
+https://anymesgs.com/rss.xml
+```
 - [MIT News - Artificial intelligence](https://news.mit.edu/rss/topic/artificial-intelligence2)
 ```
 http://news.mit.edu/rss/topic/artificial-intelligence2

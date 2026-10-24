@@ -141,6 +141,10 @@ https://www.forbes.com/leadership/feed/
 ```
 http://feeds.feedburner.com/fastcompany/headlines
 ```
+- [Kiwi News](https://news.kiwistand.com)
+```
+https://news.kiwistand.com/feed.xml
+```
 
 ### Products & Ideas
 

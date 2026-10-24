@@ -41,6 +41,7 @@
 			<outline text="Forbes - Leadership" title="Forbes - Leadership" type="rss" xmlUrl="https://www.forbes.com/leadership/feed/" />
 			<outline text="Fast Company" title="Fast Company" type="rss" xmlUrl="http://feeds.feedburner.com/fastcompany/headlines" />
 			<outline text="Forbes - Entrepreneurs" title="Forbes - Entrepreneurs" type="rss" xmlUrl="http://www.forbes.com/entrepreneurs/index.xml" />
+			<outline text="Kiwi News" title="Kiwi News" type="rss" xmlUrl="https://news.kiwistand.com/feed.xml" htmlUrl="https://news.kiwistand.com" />
 		</outline>
 		<outline text="Products &amp; Ideas" title="Products &amp; Ideas">
 			<outline text="Product Hunt — The best new products, every day" title="Product Hunt — The best new products, every day" type="rss" xmlUrl="http://www.producthunt.com/feed" />
